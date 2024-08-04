@@ -1,6 +1,6 @@
 # Comments Section
 
-This is a smiulator of a comment section of an app, you can reply, delete, edit, an add comments
+This is a mortage calculator
 
 ## Tools
 <div align="center">
@@ -19,5 +19,5 @@ This is a smiulator of a comment section of an app, you can reply, delete, edit,
 
 
 ## Link
-
+https://mortage-calculator-puce.vercel.app/
 ![PREVIEW](PREVIEW.jpeg)
